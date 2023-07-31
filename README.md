@@ -36,4 +36,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
 # Loomi
+
+<img width="949" alt="image" src="https://github.com/emillysant/Loomi/assets/70452464/71dfffe6-2d4a-42c9-b011-9396fdef73b5">
+
+## Prototype
+https://www.figma.com/proto/pulnaD2JHUzLgG5SlITHzG/Loomi-Academy?page-id=1310%3A45367&type=design&node-id=1507-8709&viewport=1624%2C1363%2C0.19&t=WMxutrABYHkqDWvq-1&scaling=min-zoom
